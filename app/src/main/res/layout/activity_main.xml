@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<Button
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="NinePatch"
+		android:textColor="@color/colorPrimary"
+		android:background="@drawable/ninepatch_bubble"
+        />
+	<Button
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="NinePatchNinePatch"
+		android:textColor="@color/colorPrimary"
+		android:background="@drawable/ninepatch_bubble"
+        />
+	<Button
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="NinePatchNinePatchNinePasdfasdfasdfasdfasdfasdfasdfasdfasdagfddfhhgfdfgshatchNinePatch"
+        android:textColor="@color/colorPrimary"
+        android:background="@drawable/ninepatch_bubble"
+        />
+
+</LinearLayout>
